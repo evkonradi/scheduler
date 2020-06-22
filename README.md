@@ -16,5 +16,5 @@ You can find the repository here: https://github.com/evkonradi/scheduler.
 
 # Page preview
 
-This is the preview of the initial page of the quiz:
+This is the preview of the initial page:
 <img src="PagePreview.JPG">
